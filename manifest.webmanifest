@@ -1,0 +1,26 @@
+{
+ "name": "免税接客マニュアル",
+ "short_name": "免税マニュアル",
+ "description": "GROOVY / fuzz city 11月1日からの免税接客",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "lang": "ja",
+ "background_color": "#eef0f3",
+ "theme_color": "#244a7c",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
